@@ -5,7 +5,7 @@ dependencies:
   - pandas
   - numpy
   - rise
-  - matplotlig
+  - matplotlib
   - bokeh
   - holoviews
   - hvplot
