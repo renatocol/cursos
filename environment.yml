@@ -1,1 +1,5 @@
-
+- python
+  - numpy
+  - pip
+  - pip:
+    - xlrd==1.0.0
