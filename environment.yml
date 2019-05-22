@@ -10,4 +10,4 @@ dependencies:
   - holoviews
   - hvplot
   - seaborn
-- xlrd
+  - xlrd
