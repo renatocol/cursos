@@ -1,0 +1,13 @@
+name: environment
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - rise
+  - matplotlib
+  - bokeh
+  - holoviews
+  - hvplot
+  - seaborn
+- xlrd
